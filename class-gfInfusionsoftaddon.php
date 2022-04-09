@@ -14,8 +14,8 @@ class GFInfusionsoftAddOn extends GFFeedAddOn {
   protected $_title = 'Gravity Forms Infusionsoft Add-On';
   protected $_short_title = 'Infusionsoft';
 
-  protected $clientId = 'C93g9h2rl4iWNs7xgBpZVzRD30EqJS71';
-  protected $clientSecret = '0S5bq3zpdMwR0iHw';
+  protected $clientId = '';
+  protected $clientSecret = '';
 
   protected $_supports_feed_ordering = true;
 
